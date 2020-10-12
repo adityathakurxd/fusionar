@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'ar_screen.dart';
-import 'shop.dart';
+import 'package:fusionar/catalog_screen.dart';
 
 class HomePage extends StatefulWidget {
   static const routeName = "/bottom-navigation";
@@ -16,7 +16,7 @@ class _HomePage extends State<HomePage> {
   void initState() {
     _pages = [
       {
-        'page': Shop(),
+        'page': Catalog(),
         'title': 'Shop',
       },
       {
@@ -40,7 +40,7 @@ class _HomePage extends State<HomePage> {
       bottomNavigationBar: BottomNavigationBar(
         onTap: _selectedPage,
         unselectedItemColor: Colors.black,
-        selectedItemColor: Colors.red,
+        selectedItemColor: Colors.black26,
         currentIndex: _selectedPageIndex,
         items: [
           BottomNavigationBarItem(

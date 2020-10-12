@@ -30,6 +30,7 @@ dependencies:
   cupertino_icons: ^1.0.0
   arcore_flutter_plugin: ^0.0.6
   model_viewer: ^0.8.1
+  splashscreen: ^1.2.0
 
 
 dev_dependencies:
@@ -50,7 +51,11 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/bed.glb
-    - assets/school_desk.glb
+    - assets/SchoolBagShelves.glb
+    - assets/lamp.glb
+    - assets/closet.glb
+    - assets/chair.glb
+    - assets/images/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
