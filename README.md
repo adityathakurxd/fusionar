@@ -47,4 +47,6 @@ We plan to implement 3D printing to our product line in order to save our planet
 
 **Video Demo** [link](https://youtu.be/ir2ejqI_45M).
 
+**App Apk** [link](http://bit.ly/fusionarapp)
+
 ![IMG-20201011-WA0084__01.jpg](https://user-images.githubusercontent.com/53579386/95717822-2b37d980-0c8b-11eb-9671-d0ede1b2cfa8.jpg)
