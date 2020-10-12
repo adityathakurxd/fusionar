@@ -1,8 +1,15 @@
 class Product {
   final int id, price;
   final String title, image, link;
+  int _tile = 0;
 
   Product({this.id, this.price, this.title, this.image, this.link});
+
+  String getLink() {
+    return products[_tile].link;
+
+  }
+
 }
 
 List<Product> products = [
@@ -42,3 +49,17 @@ List<Product> products = [
     link: 'assets/closet.glb'
   ),
 ];
+
+
+// class CalculatorBrain {
+//   CalculatorBrain ({this.weight, this.height});
+//
+//   final int height;
+//   final int weight;
+//
+//   double _bmi;
+//
+//   String calculateBMI() {
+//     _bmi = weight/pow(height/100, 2);
+//     return _bmi.toStringAsFixed(1);
+//   }

@@ -9,7 +9,7 @@
     <uses-feature android:name="android.hardware.camera.ar" />
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="fusionar"
+        android:label="Fusion AR"
         android:icon="@mipmap/ic_launcher"
         android:usesCleartextTraffic="true">
         <activity

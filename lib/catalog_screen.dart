@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'shop.dart';
 import 'product.dart';
-
+Product product = Product();
 const kDefaultPadding = 12.0;
 const kBackgroundColor = Colors.blueAccent;
 const kSecondaryColor = Colors.red;
@@ -49,9 +49,7 @@ class _CatalogState extends State<Catalog> {
                       Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context) => Shop(
-
-                          ),
+                          builder: (context) => Shope(letter: products[index].link,),
                         ),
                       );
                     },
