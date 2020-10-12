@@ -29,6 +29,8 @@ The customers, with the help of AR, can view all the things they wish to buy in 
 
 ![20201012_125004.gif](https://user-images.githubusercontent.com/53579386/95717327-6685d880-0c8a-11eb-832b-b25806f357ed.gif)
 
+![20201012_140703.gif](https://user-images.githubusercontent.com/53579386/95724647-40fdcc80-0c94-11eb-840c-f765bc1d6a20.gif)
+
 ## Benefits
 
 -   By offering users to display their inventory using AR on their mobile devices and tablets
