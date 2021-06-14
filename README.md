@@ -27,11 +27,19 @@ We aim to provide our users to step into a digital world and show their customer
 The customers, with the help of AR, can view all the things they wish to buy in the palm of their hands using their smartphones.
 
 ## Demonstration
-![20201012_124846.gif](https://user-images.githubusercontent.com/53579386/95717275-5241db80-0c8a-11eb-9824-23e3c5483cd6.gif)
-
-![20201012_125004.gif](https://user-images.githubusercontent.com/53579386/95717327-6685d880-0c8a-11eb-832b-b25806f357ed.gif)
-
-![20201012_140703.gif](https://user-images.githubusercontent.com/53579386/95724647-40fdcc80-0c94-11eb-840c-f765bc1d6a20.gif)
+<table>
+        <tr>
+          <td>
+            <img src="https://user-images.githubusercontent.com/53579386/95717275-5241db80-0c8a-11eb-9824-23e3c5483cd6.gif" alt="">
+          </td>
+          <td>
+            <img src="https://user-images.githubusercontent.com/53579386/95717327-6685d880-0c8a-11eb-832b-b25806f357ed.gif" alt="">
+          </td>
+          <td>
+            <img src="https://user-images.githubusercontent.com/53579386/95724647-40fdcc80-0c94-11eb-840c-f765bc1d6a20.gif" alt="">
+          </td>
+        </tr>
+</table>
 
 ## Benefits
 
